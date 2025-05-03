@@ -1,6 +1,6 @@
 # php-webshell
 
-web shell from php (no fancy reverse shell, just simple stuff)
+web shell from php (no fancy reverse shell, just simple stuff: `shell_exec($command)` if `password_verify` returns true)
 
 ![preview](./preview.png)
 
